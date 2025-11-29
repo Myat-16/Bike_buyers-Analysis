@@ -1,3 +1,4 @@
+# Project Name: Bike Buyers Analysis
 # 📊 Key Business Impacts
 
 1. Targeted Gender Marketing
@@ -15,7 +16,7 @@
 7. Enhanced Product Positioning
 + Understanding who buys and why helps refine product messaging and placement, leading to uplift in overall customer interest.
 
-## Approaches
+## Approaches Details
 Analyzed Public Kaggle Dataset
 Utilized the publicly available Bike Buyers dataset to explore patterns such as:
 + Purchased Bike by Gender
