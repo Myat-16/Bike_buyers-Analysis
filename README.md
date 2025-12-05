@@ -27,3 +27,8 @@ Utilized the publicly available Bike Buyers dataset to explore patterns such as:
 Focused the study on relevant fields: ID, Gender, Education, Occupation, Commute Distance, and Purchase Status.
 ### Built Interactive Excel Dashboard
 Aggregated insights and created visualizations (bar charts, line charts, pie charts, and slicers) in Excel to support deeper, user-driven analysis.
+
+## 📊 Dashboard Visualization (Excel)
+
+<img width="1456" height="632" alt="image" src="https://github.com/user-attachments/assets/c27e8141-f0fe-491a-9ca9-4323ba81537f" />
+
